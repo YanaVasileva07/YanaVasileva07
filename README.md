@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yana Vasileva
 - 👀 I’m interested in Python, Cyber Security and Electronics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👩‍💻 I’m currently learning Python
+- 🤝 I'm looking to collaborate with startups
 - 📫 How to reach me yanaitproff@gmail.com
